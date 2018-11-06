@@ -1,7 +1,7 @@
 # prep
 This is a learning path to prepare for the MountBlue Selection process
 
-To prepare for your selection process you can practice all easy questions on the [HackerRank algorithms](http://hackerrank.com/) track.  
+To prepare for your selection process you can practice all easy and medium questions on the [HackerRank algorithms](http://hackerrank.com/) track.  
 
 You can get a significant advantage in our selection process by completing Responsive Web Design Certification and Javascript Algorithms And Data Structures Certification on  https://learn.freecodecamp.org/. 
 
